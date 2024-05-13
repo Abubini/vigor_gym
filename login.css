@@ -132,6 +132,11 @@ input::placeholder{
 	width:90%;
 	}
 	}
+@media (max-width: 500px) {
+	.log-in-form{
+	width:70%;
+	}
+	}
 
 
 
